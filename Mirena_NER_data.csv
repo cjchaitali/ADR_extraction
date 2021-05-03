@@ -1,0 +1,84 @@
+Sentence #,Word,Tag
+Sentence: 1,IUD,B
+,migrated,I
+,to,O
+,lower,B
+,uterine,I
+,segment,I
+,IUS,O
+,not,O
+,in,O
+,fundal,O
+,position,O
+Sentence: 2,Patient,O
+,removed,B
+,the,I
+,IUD,I
+,by,O
+,herself,O
+Sentence: 3,Mirena,B
+,was,O
+,partially,I
+,expelled,I
+Sentence: 4,pregnant,B
+,weeks,I
+,and,O
+,days,O
+,pregnant,B
+,tried,O
+,to,O
+,locate,O
+,the,O
+,strings,O
+,but,O
+,could,O
+,not,O
+,find,O
+,them,O
+,they,O
+,could,O
+,not,O
+,locate,O
+,it,O
+,as,O
+,well,O
+Sentence: 5,Uncontrolled,B
+,vaginal,I
+,bleeding,I
+Sentence: 6,she,O
+,has,O
+,gained,B
+,pounds,I
+Sentence: 7,acne,B
+,on,I
+,face,I
+,acne,I
+,on,I
+,back,I
+Sentence: 8,No,B
+,periods,I
+Sentence: 9,brain,B
+,fog,I
+Sentence: 10,Pain,B
+Sentence: 11,Depression,B
+Sentence: 12,Mirena,B
+,IUD,I
+,had,O
+,perforated,I
+,uterus,I
+,and,O
+,was,O
+,located,O
+,in,O
+,right,O
+,pelvis,O
+Sentence: 13,finally,O
+,had,O
+,it,O
+,removed,B
+,with,O
+,a,O
+,hysterectomy,B
+Sentence: 14,documented,O
+,nickel,B
+,allergy,I
